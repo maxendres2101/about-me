@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile!
-Hi, I'm [Your Name], a passionate [Your Field, e.g., Computer Science] graduate excited about [specific area, e.g., backend development, machine learning, etc.].
+Hi, I'm Max Endres, a passionate soon-to-be Computer Science and Mathematics graduate excited about backend development, machine learning, and data analytics and visualization.
 
 ## Skills
 - Programming Languages: Python, Java, C++
@@ -7,4 +7,4 @@ Hi, I'm [Your Name], a passionate [Your Field, e.g., Computer Science] graduate 
 - Interests: Software Development, Data Structures, Algorithms
 
 ## Current Focus
-I'm currently seeking opportunities to contribute to impactful projects and further develop my skills in [specific area]. 
+I'm currently seeking opportunities to contribute to impactful projects and further develop my skills. 
