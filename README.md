@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile!
-Hi, I'm Max Endres, a passionate soon-to-be Computer Science and Mathematics graduate excited about backend development, machine learning, and data analytics and visualization.
+Hi, I'm Max Endres, a passionate Computer Science and Mathematics graduate excited about backend development, machine learning, and data analytics and visualization.
 
 ## Skills
 - Programming Languages: Python, Java, C++
